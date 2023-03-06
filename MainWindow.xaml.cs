@@ -22,7 +22,7 @@ namespace HellowWord
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//10000
         }
     }
 }
